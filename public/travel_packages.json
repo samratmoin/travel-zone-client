@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "5 Nights & 6 Days Umrah - Feel the magnificence of Makkah and Madinah",
+    "img": "https://i.ibb.co/0f7LSYk/makkah.jpg",
+    "location": "Medinah, Saudi Arabia - Makkah, Saudi Arabia",
+    "price": "75000"
+  },
+  {
+    "id": 2,
+    "name": "3 Nights 2 Days at Sajek Valley: The Kingdom of Clouds",
+    "img": "https://i.ibb.co/nr69Gjs/sazek.jpg",
+    "location": "Sajek, Bangladesh",
+    "price": "5000"
+  },
+  {
+    "id": 3,
+    "name": "Simply Maldives",
+    "img": "https://i.ibb.co/dBxrR4c/maldives.jpg",
+    "location": "Maldives, Maldives",
+    "price": "50000"
+  },
+  {
+    "id": 4,
+    "name": "Cox's Bazar - The Never Ending Sea Beach",
+    "img": "https://i.ibb.co/qn9K412/cox-sbazar.jpg",
+    "location": "Cox's Bazar, Bangladesh",
+    "price": "5000"
+  },
+  {
+    "id": 5,
+    "name": "Uniquely Singapore ",
+    "img": "https://i.ibb.co/6s3bPMr/singapore.jpg",
+    "location": "Singapore, Singapore",
+    "price": "40000"
+  },
+  {
+    "id": 6,
+    "name": "Honeymoon in Bali",
+    "img": "https://i.ibb.co/TYDSg1J/bali.jpg",
+    "location": "Bali, Indonesia",
+    "price": "50000"
+  }
+]
